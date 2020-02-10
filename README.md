@@ -3,6 +3,7 @@
 <br>
 Összeállította: Fekete Imre (Alkalmazott Analízis és Számításmatematikai Tanszék, ELTE)
 <br>
+
 A feladatok és a tanmenet megírása az eredeti 2018/2019 tavaszi félévben tartott kurzus megfelelő módosításai, naprakész frissítése alapján történt. 
 
 A Jupyter notebookokat az alábbi módon futtathatod:
