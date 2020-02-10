@@ -3,6 +3,7 @@
 <br>
 Összeállította: Fekete Imre (Alkalmazott Analízis és Számításmatematikai Tanszék, ELTE)
 <br>
+<br>
 
 A feladatok és a tanmenet megírása az eredeti 2018/2019 tavaszi félévben tartott kurzus megfelelő módosításai, naprakész frissítése alapján történt. 
 
@@ -13,5 +14,4 @@ A Jupyter notebookokat az alábbi módon futtathatod:
   2) MATLAB és/vagy Octave megléte vagy telepítése
   3) MATLAB és/vagy Octave kerneljének telepítése
 + COCALC (Collaborative Calculation in the Cloud, https://cocalc.com/) honlapot használva
-
 
